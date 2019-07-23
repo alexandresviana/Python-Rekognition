@@ -1,2 +1,4 @@
 # Python-Rekognition
-script em python para usar a comparação facil do AWS Rekognition
+python script to use with do AWS Rekognition
+
+You need to install boto and have an AWS account
